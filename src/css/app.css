@@ -1,0 +1,34 @@
+.prompt-block {
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: #adaeaf;
+    display: flex;
+    flex-direction: column;
+}
+
+.decrypted-input {
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+}
+
+.decrypted-button {
+    padding: 10px;
+    text-align: center;
+}
+
+.array-block {
+    background-color: black;
+    display: flex;
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
